@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/6sygshiuqd30wtrh?svg=true)](https://ci.appveyor.com/project/avdeevaleksandr817/patternstestmode)
+
 # время, затраченное на ручное тестирование 20 минут;
 # время, затраченное на автоматизацию 1 час 20 минут.
 
